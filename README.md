@@ -18,8 +18,6 @@ This project implements a scalable URL shortener capable of handling high concur
 
 ## 🏗️ Architecture
 
-> 📷 Add your architecture diagram below
-
 ![Architecture](./arch/architecture.png)
 
 ---
